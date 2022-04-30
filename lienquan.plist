@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.iphonecake.com/app/appcake_jb.ipa</string>
+					<string>https://onedrive.live.com/download?cid=76F3FC1D56FAD250&resid=76F3FC1D56FAD250%21475&authkey=AGR3cFwjRpZB7yU</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.iphonecake.appcakej</string>
+				<string>com.nguyenhoane.lienquan</string>
 				<key>bundle-version</key>
-				<string>7.1.3</string>
+				<string>1.45.1745149</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
